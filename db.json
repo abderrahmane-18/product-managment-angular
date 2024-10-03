@@ -1,37 +1,44 @@
 {
-  "products":
-  [
-{
-  "id":1,
-  "name":"phone",
-  "price":400,
-  "quantity":15,
-  "available":true,
-  "selected":true
-},
-{
-  "id":2,
-  "name":"phone2",
-  "price":400,
-  "quantity":15,
-  "available":true,
-  "selected":true
-},
-{
-  "id":3,
-  "name":"phone3",
-  "price":400,
-  "quantity":15,
-  "available":true,
-  "selected":true
-},
-{
-  "id":4,
-  "name":"phone4",
-  "price":400,
-  "quantity":15,
-  "available":true,
-  "selected":true
-}
+  "products": [
+    {
+      "id": 1,
+      "name": "phone",
+      "price": 400,
+      "quantity": 15,
+      "available": true,
+      "selected": false
+    },
+    {
+      "id": 2,
+      "name": "tphone2",
+      "price": 400,
+      "quantity": 15,
+      "available": true,
+      "selected": true
+    },
+    {
+      "id": 3,
+      "name": "phone3",
+      "price": 400,
+      "quantity": 15,
+      "available": true,
+      "selected": true
+    },
+    {
+      "id": 4,
+      "name": "phone4",
+      "price": 400,
+      "quantity": 15,
+      "available": true,
+      "selected": true
+    },
+    {
+      "name": "computer",
+      "price": 8000,
+      "quantity": 15,
+      "available": true,
+      "selected": true,
+      "id": 5
+    }
   ]
 }
